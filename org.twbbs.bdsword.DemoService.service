@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=org.twbbs.bdsword.DemoService
+Exec=/home/bdsword/Documents/CC/share/dbus/demo/demo_server.py
